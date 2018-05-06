@@ -1,3 +1,4 @@
+# TODO favour the new container-based travis workers
 language: python
 python:
   # We don't actually use the Travis Python, but this keeps it organized.
